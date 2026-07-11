@@ -1,81 +1,94 @@
-<div align="center">
+<h1 align="center">Hi there, I'm Garv Kapoor 👋</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:1b263b&height=200&section=header&text=Garv%20Kapoor&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%2FML%20Engineer&descAlignY=55&descSize=18&descColor=cfd8e3" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Aspiring+AI%2FML+Engineer;Learning+Python+%2B+Math+for+ML;Building+my+first+projects+soon" alt="Typing SVG" />
+</p>
 
-<br/>
+<p align="center">
+  <a href="mailto:garvkapoor834@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/garvkapoor24">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://fascinating-custard-6602ee.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+</p>
 
-<a href="mailto:garvkapoor834@gmail.com">
-  <img src="https://img.shields.io/badge/Email-garvkapoor834%40gmail.com-1b263b?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.kaggle.com/garvkapoor24">
-  <img src="https://img.shields.io/badge/Kaggle-garvkapoor24-1b263b?style=for-the-badge&logo=kaggle&logoColor=20BEFF" />
-</a>
-<a href="https://fascinating-custard-6602ee.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-View%20Site-1b263b?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
-</a>
+---
 
-</div>
+## 🧑‍💻 About Me
 
-<br/>
+I'm just starting my journey toward becoming an **AI/ML Engineer**. Rather than rushing into frameworks, I'm building a solid foundation first — the math, the language, and the core data tools that everything else is built on.
 
-## 🧭 About Me
+I believe in learning in public, so this profile will grow as I do: more skills, more projects, more real work — all documented here as I go.
 
-Learning to become an **AI/ML Engineer** — starting from the ground up: math, Python, and data before jumping into models.
+---
 
-```python
-class GarvKapoor:
-    def __init__(self):
-        self.role = "Aspiring AI/ML Engineer"
-        self.currently_learning = ["Math for ML", "Pandas", "Matplotlib"]
-        self.tools = ["Python", "NumPy"]
-        self.projects = []  # coming soon
-        self.open_to = "connecting with fellow learners & mentors"
-```
+## 🛠️ Technologies & Tools
 
-<br/>
+**Languages**
 
-## 🌱 Currently
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
-| | |
-|---|---|
-| 🔭 | Learning **AI fundamentals** + the math behind ML (linear algebra, statistics, calculus) |
-| 🛠️ | Sharpening my **Python** skills, going deeper into **Pandas** & **Matplotlib** |
-| 🎯 | Goal: master the fundamentals, then build real ML projects |
-| 📌 | No public projects yet — my first ones are coming soon |
-| 💬 | Always open to talking data, ML, or learning paths with others |
+**Data & Analysis**
 
-<br/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
 
-## 🧰 Tech Stack
+**Currently Learning**
 
-<div align="center">
+<img src="https://img.shields.io/badge/Math_for_ML-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white" />
+<img src="https://img.shields.io/badge/Intro_to_AI-8A2BE2?style=for-the-badge&logo=OpenAI&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Python-1b263b?style=for-the-badge&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/NumPy-1b263b?style=for-the-badge&logo=numpy&logoColor=013243" />
-<img src="https://img.shields.io/badge/Pandas-1b263b?style=for-the-badge&logo=pandas&logoColor=E70488" />
-<img src="https://img.shields.io/badge/Matplotlib-1b263b?style=for-the-badge&logo=plotly&logoColor=11557C" />
+---
 
-</div>
+## 🎯 What I'm Working On
 
-<br/>
+- 📐 Strengthening the **math behind ML** — linear algebra, statistics, and calculus
+- 🐼 Getting hands-on with **Pandas** for real data analysis
+- 📊 Learning **Matplotlib** to visualize data clearly
+- 🚀 Preparing to ship my **first public project** — check back soon!
+
+---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jordan270&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jordan270&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jordan270&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=64ffda&icon_color=64ffda&text_color=cfd8e3" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jordan270&theme=tokyonight&hide_border=true&background=0d1b2a&ring=64ffda&fire=64ffda&currStreakLabel=64ffda" height="165" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordan270&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordan270&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=64ffda&text_color=cfd8e3" height="165" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jordan270&theme=tokyo-night&hide_border=true" width="90%" />
+</p>
 
-</div>
+---
 
-<br/>
+## 📫 Let's Connect
 
-<div align="center">
+I'm always happy to talk data, ML, or learning paths with fellow beginners or mentors.
 
-*"The expert in anything was once a beginner."*
+<p align="center">
+  <a href="mailto:garvkapoor834@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/garvkapoor24">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://fascinating-custard-6602ee.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b263b,100:0d1b2a&height=100&section=footer" width="100%"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jordan270&color=64FFDA&style=flat-square&label=Profile+Views" />
+</p>
 
-</div>
+<p align="center"><i>⭐ From Garv Kapoor — learning today, building tomorrow.</i></p>
